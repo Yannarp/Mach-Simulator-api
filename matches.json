@@ -12,7 +12,24 @@
   },
   "vizitante": {
   "nome": "Argentina",
-  "forca": "5",
+  "forca": 5,
+  "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+  }
+ },
+  {
+  "descrição": "Eliminatórias Copa 20222",
+  "local": {
+  "nome": "Maracanã",
+  "imagem": "TODO"
+  },
+  "mandante": {
+  "nome": "Brasil",
+  "forca": 5,
+  "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+  },
+  "vizitante": {
+  "nome": "Colômbria",
+  "forca": 3,
   "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
   }
  }
